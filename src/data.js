@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Birds Sounds Gallery",
+    subtitle: "React, Bootstrapp, Python, Flask and PostgreSQL.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Birds sounds gallery. Implementing user registration and login credential's validation system, while consuming data from a third-party API (Xeno-Canto).",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/shmaiter-morales/Birdy",
   },
   {
     title: "React Tracks",
@@ -53,8 +53,8 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Express.js",
+  "Node.js",
+  "MongoDB",
+  "Python",
 ];

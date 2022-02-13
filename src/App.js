@@ -8,7 +8,14 @@ import Testimonials from "./components/Testimonials";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
+    <main
+      className="text-gray-400 bg-gray-900 body-font"
+      style={{
+        backgroundImage: `url(
+          "https://www.transparenttextures.com/patterns/cartographer.png"
+        )`,
+      }}
+    >
       <Navbar />
       <About />
       <Projects />
